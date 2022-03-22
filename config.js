@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['+1 (775) 403-5736','6289505165400'] // Put your number here //owner eval
-global.kontak = ['+1 (775) 403-5736','6289505165400'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/Jho8sdjvdrGGoSWeGJNWwJ', ''] // ganti jadi group lu
+global.owner = ['6282311619167','6285946352369'] // Put your number here //owner eval
+global.kontak = ['6282311619167','6285946352369'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['6285707101183','6285946352369','6282311619167'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -49,20 +49,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXzy 1'
-namakontak2 = 'AlyaaXzy 2'
+namakontak1 = 'Leviathan'
+namakontak2 = 'Hakiki Xd'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AlyaaXzy' // ganti aja
-global.author = 'AlyaaXzy' // ganti aja
+global.packname = 'By Leviathan' // ganti aja
+global.author = 'Leviathan' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
-footer = '\n©AlyaaXzy'
-namabot = 'AlyaaXzy'
-namalu = 'AlyaaXzy'
+bc = 'L Botz Brodac' //AlyaaXy Broadcast
+footer = '\n© Radhin mods'
+namabot = 'L botz'
+namalu = 'Hakiki '
 
 
 // 
