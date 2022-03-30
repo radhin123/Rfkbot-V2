@@ -62,7 +62,7 @@ global.author = 'RIFAT X Leviathan' // ganti aja
 bc = 'RIFAT BOTZ Brodac' //AlyaaXy Broadcast
 footer = '\n© Radhin mods'
 namabot = 'RIFAT botz'
-namalu = 'rifat '
+namalu = 'Leviathan' '
 
 
 // 
