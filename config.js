@@ -59,7 +59,7 @@ global.packname = 'By Leviathan' // ganti aja
 global.author = 'RIFAT X Leviathan' // ganti aja
 
 //yyy
-bc = 'RIFAT BOTZ Brodac' //AlyaaXy Broadcast
+bc = 'RIFAT BOTZ' //AlyaaXy Broadcast
 footer = '\n© Radhin mods'
 namabot = 'RIFAT botz'
 namalu = 'Leviathan' '
